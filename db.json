@@ -1,0 +1,204 @@
+{
+   "huyens":[
+      {
+         "id":"514",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Anh Sơn"
+      },
+      {
+         "id":"515",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Con Cuông"
+      },
+      {
+         "id":"516",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Diễn Châu"
+      },
+      {
+         "id":"517",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Đô Lương"
+      },
+      {
+         "id":"518",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Hưng Nguyên"
+      },
+      {
+         "id":"519",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Kỳ Sơn"
+      },
+      {
+         "id":"520",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Nam Đàn"
+      },
+      {
+         "id":"521",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Nghi Lộc"
+      },
+      {
+         "id":"522",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Nghĩa Đàn"
+      },
+      {
+         "id":"523",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Quế Phong"
+      },
+      {
+         "id":"524",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Quỳ Châu"
+      },
+      {
+         "id":"525",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Quỳ Hợp"
+      },
+      {
+         "id":"526",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Quỳnh Lưu"
+      },
+      {
+         "id":"527",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Tân Kỳ"
+      },
+      {
+         "id":"528",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Thanh Chương"
+      },
+      {
+         "id":"529",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Tương Dương"
+      },
+      {
+         "id":"530",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Huyện Yên Thành"
+      },
+      {
+         "id":"531",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Thành phố Vinh"
+      },
+      {
+         "id":"532",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Thị xã Cửa Lò"
+      },
+      {
+         "id":"533",
+         "ma_huyen":"ASN",
+         "ten_huyen":"Thị xã Thái Hòa"
+      }
+   ],
+   "xas":[
+      {
+         "id":"1",
+         "id_huyen":"514",
+         "ma_xa":"ASNX",
+         "ten_xa":"Xa 1"
+      },
+      {
+         "id":"2",
+         "id_huyen":"514",
+         "ma_xa":"ASNX",
+         "ten_xa":"Xa 2"
+      },
+      {
+         "id":"3",
+         "id_huyen":"514",
+         "ma_xa":"ASNX",
+         "ten_xa":"Xa 3"
+      },
+      {
+         "id":"4",
+         "id_huyen":"514",
+         "ma_xa":"ASNX",
+         "ten_xa":"Xa 4"
+      },
+      {
+         "id":"11",
+         "id_huyen":"515",
+         "ma_xa":"CCO",
+         "ten_xa":"Xa CC 1"
+      },
+      {
+         "id":"12",
+         "id_huyen":"515",
+         "ma_xa":"CCO",
+         "ten_xa":"Xa CCO 2"
+      },
+      {
+         "id":"13",
+         "id_huyen":"515",
+         "ma_xa":"CCO",
+         "ten_xa":"Xa CCO 3"
+      },
+      {
+         "id":"14",
+         "id_huyen":"515",
+         "ma_xa":"CCO",
+         "ten_xa":"Xa CCO 4"
+      }
+   ],
+   "xoms":[
+      {
+         "id":"1",
+         "id_xa":"1",
+         "ma_xom":"ASNX",
+         "ten_xom":"xom 1"
+      },
+      {
+         "id":"2",
+         "id_xa":"1",
+         "ma_xom":"ASNX",
+         "ten_xom":"xom 2"
+      },
+      {
+         "id":"3",
+         "id_xa":"2",
+         "ma_xom":"ASNX",
+         "ten_xom":"xom 3"
+      },
+      {
+         "id":"4",
+         "id_xa":"2",
+         "ma_xom":"ASNX",
+         "ten_xom":"xom 4"
+      },
+      {
+         "id":"11",
+         "id_xa":"11",
+         "ma_xom":"CCO",
+         "ten_xom":"xom CC 1"
+      },
+      {
+         "id":"2",
+         "id_xa":"11",
+         "ma_xom":"CCO",
+         "ten_xom":"xom CCO 2"
+      },
+      {
+         "id":"3",
+         "id_xa":"12",
+         "ma_xom":"CCO",
+         "ten_xom":"xom CCO 3"
+      },
+      {
+         "id":"4",
+         "id_xa":"12",
+         "ma_xom":"CCO",
+         "ten_xom":"xom CCO 4"
+      }
+   ]
+}
